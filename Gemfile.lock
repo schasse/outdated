@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    schlib (0.1.1)
+    schlib (0.3.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  schlib (= 0.1.1)
+  schlib
 
 RUBY VERSION
    ruby 2.4.1p111
