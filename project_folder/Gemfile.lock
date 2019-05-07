@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    schlib (0.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  schlib
+
+BUNDLED WITH
+   1.14.6
